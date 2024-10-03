@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\Cau2\Cau2\bin\Debug\net8.0-windows\Cau2.exe
+C:\Users\Legion\source\repos\Cau2\Cau2\bin\Debug\net8.0-windows\Cau2.deps.json
+C:\Users\Legion\source\repos\Cau2\Cau2\bin\Debug\net8.0-windows\Cau2.runtimeconfig.json
+C:\Users\Legion\source\repos\Cau2\Cau2\bin\Debug\net8.0-windows\Cau2.dll
+C:\Users\Legion\source\repos\Cau2\Cau2\bin\Debug\net8.0-windows\Cau2.pdb
+C:\Users\Legion\source\repos\Cau2\Cau2\obj\Debug\net8.0-windows\Cau2.Form1.resources
+C:\Users\Legion\source\repos\Cau2\Cau2\obj\Debug\net8.0-windows\Cau2.csproj.GenerateResource.cache
+C:\Users\Legion\source\repos\Cau2\Cau2\obj\Debug\net8.0-windows\Cau2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Cau2\Cau2\obj\Debug\net8.0-windows\Cau2.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Cau2\Cau2\obj\Debug\net8.0-windows\Cau2.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Cau2\Cau2\obj\Debug\net8.0-windows\Cau2.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Cau2\Cau2\obj\Debug\net8.0-windows\Cau2.dll
+C:\Users\Legion\source\repos\Cau2\Cau2\obj\Debug\net8.0-windows\refint\Cau2.dll
+C:\Users\Legion\source\repos\Cau2\Cau2\obj\Debug\net8.0-windows\Cau2.pdb
+C:\Users\Legion\source\repos\Cau2\Cau2\obj\Debug\net8.0-windows\Cau2.genruntimeconfig.cache
+C:\Users\Legion\source\repos\Cau2\Cau2\obj\Debug\net8.0-windows\ref\Cau2.dll
