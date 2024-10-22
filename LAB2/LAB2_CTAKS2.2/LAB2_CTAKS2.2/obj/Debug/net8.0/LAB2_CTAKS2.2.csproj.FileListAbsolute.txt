@@ -1,0 +1,14 @@
+C:\Users\Legion\source\repos\LAB2_CTAKS2.2\LAB2_CTAKS2.2\bin\Debug\net8.0\LAB2_CTAKS2.2.exe
+C:\Users\Legion\source\repos\LAB2_CTAKS2.2\LAB2_CTAKS2.2\bin\Debug\net8.0\LAB2_CTAKS2.2.deps.json
+C:\Users\Legion\source\repos\LAB2_CTAKS2.2\LAB2_CTAKS2.2\bin\Debug\net8.0\LAB2_CTAKS2.2.runtimeconfig.json
+C:\Users\Legion\source\repos\LAB2_CTAKS2.2\LAB2_CTAKS2.2\bin\Debug\net8.0\LAB2_CTAKS2.2.dll
+C:\Users\Legion\source\repos\LAB2_CTAKS2.2\LAB2_CTAKS2.2\bin\Debug\net8.0\LAB2_CTAKS2.2.pdb
+C:\Users\Legion\source\repos\LAB2_CTAKS2.2\LAB2_CTAKS2.2\obj\Debug\net8.0\LAB2_CTAKS2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\LAB2_CTAKS2.2\LAB2_CTAKS2.2\obj\Debug\net8.0\LAB2_CTAKS2.2.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\LAB2_CTAKS2.2\LAB2_CTAKS2.2\obj\Debug\net8.0\LAB2_CTAKS2.2.AssemblyInfo.cs
+C:\Users\Legion\source\repos\LAB2_CTAKS2.2\LAB2_CTAKS2.2\obj\Debug\net8.0\LAB2_CTAKS2.2.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\LAB2_CTAKS2.2\LAB2_CTAKS2.2\obj\Debug\net8.0\LAB2_CTAKS2.2.dll
+C:\Users\Legion\source\repos\LAB2_CTAKS2.2\LAB2_CTAKS2.2\obj\Debug\net8.0\refint\LAB2_CTAKS2.2.dll
+C:\Users\Legion\source\repos\LAB2_CTAKS2.2\LAB2_CTAKS2.2\obj\Debug\net8.0\LAB2_CTAKS2.2.pdb
+C:\Users\Legion\source\repos\LAB2_CTAKS2.2\LAB2_CTAKS2.2\obj\Debug\net8.0\LAB2_CTAKS2.2.genruntimeconfig.cache
+C:\Users\Legion\source\repos\LAB2_CTAKS2.2\LAB2_CTAKS2.2\obj\Debug\net8.0\ref\LAB2_CTAKS2.2.dll

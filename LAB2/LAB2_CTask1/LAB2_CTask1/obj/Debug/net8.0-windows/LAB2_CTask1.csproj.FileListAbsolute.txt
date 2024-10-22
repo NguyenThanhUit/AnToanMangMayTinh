@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\bin\Debug\net8.0-windows\LAB2_CTask1.exe
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\bin\Debug\net8.0-windows\LAB2_CTask1.deps.json
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\bin\Debug\net8.0-windows\LAB2_CTask1.runtimeconfig.json
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\bin\Debug\net8.0-windows\LAB2_CTask1.dll
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\bin\Debug\net8.0-windows\LAB2_CTask1.pdb
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\obj\Debug\net8.0-windows\LAB2_CTask1.Form1.resources
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\obj\Debug\net8.0-windows\LAB2_CTask1.csproj.GenerateResource.cache
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\obj\Debug\net8.0-windows\LAB2_CTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\obj\Debug\net8.0-windows\LAB2_CTask1.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\obj\Debug\net8.0-windows\LAB2_CTask1.AssemblyInfo.cs
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\obj\Debug\net8.0-windows\LAB2_CTask1.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\obj\Debug\net8.0-windows\LAB2_CTask1.dll
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\obj\Debug\net8.0-windows\refint\LAB2_CTask1.dll
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\obj\Debug\net8.0-windows\LAB2_CTask1.pdb
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\obj\Debug\net8.0-windows\LAB2_CTask1.genruntimeconfig.cache
+C:\Users\Legion\source\repos\LAB2_CTask1\LAB2_CTask1\obj\Debug\net8.0-windows\ref\LAB2_CTask1.dll
